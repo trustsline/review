@@ -6,7 +6,7 @@ We are a dedicated team of testers specializing in evaluating cryptocurrency-rel
 
    Through rigorous testing, we provide impartial evaluations to help you make informed decisions in the complex world of cryptocurrencies.
 
-# Support : [@thetrustsline](https://t.me/thetrustsline)
+# Support : [@trusts_line](https://t.me/[trusts_line])
 
 # Website : https://trustsline.com/
 
